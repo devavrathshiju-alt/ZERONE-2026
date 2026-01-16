@@ -1,0 +1,7 @@
+{
+  "name": "ZERONE 2026 | IEEE HUB",
+  "description": "The futuristic control center for IEEE ZERONE 2026. Managing networking, logic puzzles, and innovation tracks with AI integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
